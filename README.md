@@ -9,7 +9,7 @@ Alternatively, a csv file of my combined and cleaned is available in the Data fo
 Alternatively, if you wish to do your own cleaning of the combined data, a csv file of combined but uncleaned data is available in the Data folder as combined_raw_data.
 
 # Cleaning the data, running models, and creating tables/images
-My data cleaning, running of models, and creations of tables and images can be replicated by running the R script in the Project Files folder.
+My data cleaning, running of models, and creations of tables and images can be replicated by running the `FinalProject_Felkner.R` script in the Project Files folder.
 
 
 
